@@ -84,19 +84,3 @@ resume_analyzer/
 ├── requirements.txt
 └── run.py
 ```
-
-## 🎨 Customization
-### 1. Update Styles
-Modify the styles in `static/css/styles.css` to customize the look and feel of the app.
-
-### 2. Update JavaScript
-Adjust the JavaScript in `static/js/scripts.js` for additional interactivity.
-
-### 3. Update Machine Learning Model
-Update the machine learning model as needed for more accurate resume analysis.
-
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Contributors
-- [Obada Kraishan](https://github.com/obadaKraishan)
