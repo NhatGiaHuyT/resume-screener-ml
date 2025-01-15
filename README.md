@@ -10,11 +10,6 @@ A Python web application that uses machine learning to analyze and score resumes
 - Developed using Flask, HTML, CSS, and JavaScript.
 - Machine learning model to provide smart analysis and recommendations.
 
-## 📱 Screens
-### Home Screen
-- **Resume Upload Form**: Users can upload their resumes and provide job details including title, description, responsibilities, required experience, skills, and education.
-- **Submit Button**: Submit the form to get resume analysis and score.
-
 ### Analysis Screen
 - Displays the overall resume score and detailed feedback on different aspects such as skills match, experience match, education match, and resume structure.
 
